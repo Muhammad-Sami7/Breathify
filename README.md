@@ -18,7 +18,7 @@ Karachi, Lahore, and Peshawar consistently rank among the world's most polluted 
 
 ## 📸 Demo
 
-![Breathify Demo](assets/demo.gif)
+![Breathify Demo](assets/demo.png)
 
 ---
 
